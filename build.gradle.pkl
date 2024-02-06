@@ -1,0 +1,2 @@
+// could be a union type with a grapkl pkl template but for today there is no schema
+product = "jvm/app"
