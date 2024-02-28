@@ -1,3 +1,3 @@
-amends "package://github.com/jamesward/pklamper/releases/download/v0.0.3/pklamper@0.0.3#/project.pkl"
+amends "package://pkg.pkl-lang.org/github.com/jamesward/pklamper/pklamper@0.0.8#/project.pkl"
 
 product = "jvm/app"
